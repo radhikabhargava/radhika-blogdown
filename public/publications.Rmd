@@ -1,0 +1,7 @@
+---
+title: "My Publications"
+author: "radhika"
+date: "6/12/2021"
+output: html_document
+---
+This is a list of my publications so far:
